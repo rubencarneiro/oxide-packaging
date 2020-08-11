@@ -1,3 +1,9 @@
+oxide-qt (1.19.8-ubports2.1) xenial; urgency=medium
+
+  * No-change rebuild for Qt 5.12 upgrade.
+
+ -- Rodney Dawes <dobey@ubports.com>  Tue, 11 Aug 2020 15:42:16 -0400
+
 oxide-qt (1.19.8-ubports2) xenial; urgency=medium
 
   * No-change rebuild
