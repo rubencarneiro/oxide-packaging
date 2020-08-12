@@ -1,7 +1,5 @@
-diff --git a/qt/core/browser/oxide_qt_location_provider.cc b/qt/core/browser/oxide_qt_location_provider.cc
-index 9a66956b..b7e53836 100644
---- a/qt/core/browser/oxide_qt_location_provider.cc
-+++ b/qt/core/browser/oxide_qt_location_provider.cc
+--- a/oxide/qt/core/browser/oxide_qt_location_provider.cc
++++ b/oxide/qt/core/browser/oxide_qt_location_provider.cc
 @@ -38,7 +38,6 @@
  #include "base/threading/thread_task_runner_handle.h"
  #include "content/public/browser/browser_thread.h"
